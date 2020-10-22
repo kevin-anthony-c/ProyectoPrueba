@@ -1,3 +1,2 @@
 # ProyectoPrueba
-## En Visual Estudio
-### c#
+## Iniciando con Git
